@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "52686730994",
+    "firebase_url": "https://immadoit-e6541.firebaseio.com",
+    "project_id": "immadoit-e6541",
+    "storage_bucket": "immadoit-e6541.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52686730994:android:d09c52af5158ae2b0b826b",
+        "android_client_info": {
+          "package_name": "com.example.imdoit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52686730994-9utbqpnjqqff28u4lfnltg3n3ce6ed60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgg4gzaCMZhGc5ucY9c9phD_HssCWp50I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52686730994-9utbqpnjqqff28u4lfnltg3n3ce6ed60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
